@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **almost everything 🤣**
 
+- 🎓 I’m currently a 3rd year student of extramural studies in computer science at the [Polsih-Japanese Academy of Information Technology](https://www.pja.edu.pl/en/)
+
 ## &#x270d; Connect with me
 <a href="https://linkedin.com/in/kryhowsky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kryhowsky" height="30" width="40" /></a>
 
